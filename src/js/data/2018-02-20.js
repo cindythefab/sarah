@@ -298,7 +298,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "JB",
-    img: "bepyXz5.jpg",
+    img: "KJWi6Os.jpg",
     opts: {
       series: ["IDOL"],
       stage: []
